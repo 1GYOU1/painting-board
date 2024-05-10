@@ -40,4 +40,4 @@
 <br>
 
 ### 🍀 Github Pages
-https://1gyou1.github.io/painting-board/
+https://1gyou1.github.io/painting-board/painting-app/
