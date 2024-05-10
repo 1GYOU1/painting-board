@@ -15,8 +15,9 @@
 ### 📌 주요 기술 스택
 
 <div style="display:flex;">
-    <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black" style="margin-right:5px;"/>
-    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="margin-right:5px;"/>
+    <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white" style="margin-right:5px;"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 
 <br>
@@ -30,8 +31,13 @@
 - Brush Size
 - Image Saving
 
-#### 패키지
+### 📌 패키지
 - "Javascript"
 - "Canvas"
 - "2D Context"
 - "Pointer Events"
+
+<br>
+
+### 🍀 Github Pages
+https://1gyou1.github.io/painting-board/
